@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bingchillings4/simple-chatgpt-scripts/main/rejoin%20script"))()
