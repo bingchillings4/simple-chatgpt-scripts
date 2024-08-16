@@ -1,1 +1,1 @@
-this is just a simple fly script with a just as simple noclip built in with a small gui, all made with the loving work of chatgpt
+i dont know how to change the name of the repo but this is just stuff that i made with chatgpt
